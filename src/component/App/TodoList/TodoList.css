@@ -1,0 +1,15 @@
+.TodoList__list {
+  border: 1px solid #000;
+  display: flex;
+  column-gap: 40px;
+  padding: 10px;
+}
+.TodoList__item {
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+  font-size: 20px;
+}
+.TodoList__button {
+  align-self: start;
+}

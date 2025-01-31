@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Protecting the outer rim",
+    "location": "Corvus, Jangala",
+    "speaker": "Jacob Mercer",
+    "type": "free",
+    "time": {
+      "start": "2020-02-02T14:00:00",
+      "end": "2020-02-02T16:00:00"
+    }
+  },
+
+  {
+    "name": "Lorem Good",
+    "location": "Los Angeles",
+    "speaker": "Jon, Braun",
+    "type": "free",
+    "time": {
+      "start": "2020-02-02T9:00:00",
+      "end": "2020-02-02T11:00:00"
+    }
+  },
+  {
+    "name": "Foo rom flex",
+    "location": "New York",
+    "speaker": "Ruslan Azizov",
+    "type": "100",
+    "time": {
+      "start": "2020-02-02T12:00:00",
+      "end": "2020-02-02T14:00:00"
+    }
+  }
+]
